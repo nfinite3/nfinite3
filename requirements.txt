@@ -1,4 +1,4 @@
-cmake
+cmake==3.29.6
 dlib==19.24.2
 face_recognition
 numpy
