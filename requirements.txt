@@ -1,5 +1,5 @@
 cmake
-dlib
+dlib==19.24.2
 face_recognition
 numpy
 opencv-python
