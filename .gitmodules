@@ -1,0 +1,3 @@
+[submodule "ez_addons"]
+	path = ez_addons
+	url = git@github.com:zer0w1ng/ez_addons.git
